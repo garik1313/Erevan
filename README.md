@@ -1,2 +1,2 @@
 # Erevan
-Abaut Erevan
+About Erevan
